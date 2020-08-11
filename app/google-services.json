@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "284221635261",
+    "firebase_url": "https://videocon-app.firebaseio.com",
+    "project_id": "videocon-app",
+    "storage_bucket": "videocon-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284221635261:android:01ba8fa2a9498a01ba15d4",
+        "android_client_info": {
+          "package_name": "com.bevylabs.firebasevideocon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284221635261-qmlgg8nubc4k4o3aqli09gvlvgt4su0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bevylabs.firebasevideocon",
+            "certificate_hash": "da9bbafb168c5fff16d40e5b5d8b4d73298a6a24"
+          }
+        },
+        {
+          "client_id": "284221635261-8oqnrt3ort7j45ns2icgp6ihechjc2a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBt8WltWJb9yxpBaWOL8pDkjjeoAfvMAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284221635261-8oqnrt3ort7j45ns2icgp6ihechjc2a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
